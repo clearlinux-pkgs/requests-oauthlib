@@ -4,7 +4,7 @@
 #
 Name     : requests-oauthlib
 Version  : 1.2.0
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/de/a2/f55312dfe2f7a344d0d4044fdfae12ac8a24169dc668bd55f72b27090c32/requests-oauthlib-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/de/a2/f55312dfe2f7a344d0d4044fdfae12ac8a24169dc668bd55f72b27090c32/requests-oauthlib-1.2.0.tar.gz
 Summary  : OAuthlib authentication support for Requests.
